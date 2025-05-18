@@ -1,4 +1,5 @@
-# 🤠 Hi, I’m @FifthGenHub
+# 🤠 Hi, I’m @FifthGenHub  
+Some say it’s crazy to build an arcade empire solo. I just call it Saturday...all while my toddler tries to rename my Git repo.
 
 ### 🧠 Founder of DexHunt — Skill-Based Web3 Arcade Game  
 Reflex duels. Real gameplay. No gambling.  
